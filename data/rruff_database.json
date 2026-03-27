@@ -1,0 +1,4593 @@
+{
+  "Minerals": [
+    {
+      "Name": "Calcite",
+      "Peaks": [
+        {
+          "Wavenumber": 156,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 282,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 713,
+          "Assignment": "v4 CO3 bend",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1085,
+          "Assignment": "v1 CO3 symmetric",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1435,
+          "Assignment": "v3 CO3 asymmetric",
+          "RelativeIntensity": 0.05
+        }
+      ]
+    },
+    {
+      "Name": "Quartz",
+      "Peaks": [
+        {
+          "Wavenumber": 128,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 206,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.8
+        },
+        {
+          "Wavenumber": 264,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 356,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 464,
+          "Assignment": "Si-O-Si symmetric bend",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 695,
+          "Assignment": "Si-O-Si bend",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 808,
+          "Assignment": "Si-O stretch",
+          "RelativeIntensity": 0.05
+        },
+        {
+          "Wavenumber": 1162,
+          "Assignment": "Si-O-Si stretch",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Aragonite",
+      "Peaks": [
+        {
+          "Wavenumber": 155,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 207,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 706,
+          "Assignment": "v4 CO3",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1085,
+          "Assignment": "v1 CO3 symmetric",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1462,
+          "Assignment": "v3 CO3",
+          "RelativeIntensity": 0.06
+        }
+      ]
+    },
+    {
+      "Name": "Gypsum",
+      "Peaks": [
+        {
+          "Wavenumber": 415,
+          "Assignment": "SO4 bending",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 493,
+          "Assignment": "SO4 bending",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 619,
+          "Assignment": "SO4 bending",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1008,
+          "Assignment": "SO4 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1135,
+          "Assignment": "SO4 asymmetric stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 3403,
+          "Assignment": "O-H stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 3494,
+          "Assignment": "O-H stretch",
+          "RelativeIntensity": 0.4
+        }
+      ]
+    },
+    {
+      "Name": "Dolomite",
+      "Peaks": [
+        {
+          "Wavenumber": 176,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 300,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 725,
+          "Assignment": "v4 CO3 bend",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1098,
+          "Assignment": "v1 CO3 symmetric",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1443,
+          "Assignment": "v3 CO3 asymmetric",
+          "RelativeIntensity": 0.05
+        }
+      ]
+    },
+    {
+      "Name": "Magnetite",
+      "Peaks": [
+        {
+          "Wavenumber": 306,
+          "Assignment": "T2g",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 540,
+          "Assignment": "T2g",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 670,
+          "Assignment": "A1g",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Hematite",
+      "Peaks": [
+        {
+          "Wavenumber": 225,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 245,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 292,
+          "Assignment": "Eg",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 410,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 500,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 611,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 660,
+          "Assignment": "disorder",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1320,
+          "Assignment": "2-magnon",
+          "RelativeIntensity": 0.3
+        }
+      ]
+    },
+    {
+      "Name": "Rutile",
+      "Peaks": [
+        {
+          "Wavenumber": 143,
+          "Assignment": "B1g",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 235,
+          "Assignment": "multi-phonon",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 447,
+          "Assignment": "Eg",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 612,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 826,
+          "Assignment": "B2g",
+          "RelativeIntensity": 0.05
+        }
+      ]
+    },
+    {
+      "Name": "Anatase",
+      "Peaks": [
+        {
+          "Wavenumber": 144,
+          "Assignment": "Eg",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 197,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 399,
+          "Assignment": "B1g",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 513,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 519,
+          "Assignment": "B1g",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 639,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.25
+        }
+      ]
+    },
+    {
+      "Name": "Feldspar (Orthoclase)",
+      "Peaks": [
+        {
+          "Wavenumber": 155,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 285,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 475,
+          "Assignment": "Si-O bend",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 515,
+          "Assignment": "Si-O-Al bend",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 750,
+          "Assignment": "Si-O-Si stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1100,
+          "Assignment": "Si-O stretch",
+          "RelativeIntensity": 0.1
+        }
+      ]
+    },
+    {
+      "Name": "Olivine (Forsterite)",
+      "Peaks": [
+        {
+          "Wavenumber": 222,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 305,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 434,
+          "Assignment": "SiO4 bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 546,
+          "Assignment": "SiO4 asymmetric bend",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 608,
+          "Assignment": "SiO4 asymmetric bend",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 824,
+          "Assignment": "SiO4 symmetric stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 856,
+          "Assignment": "SiO4 symmetric stretch",
+          "RelativeIntensity": 0.9
+        },
+        {
+          "Wavenumber": 882,
+          "Assignment": "SiO4 antisymmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 965,
+          "Assignment": "SiO4 antisymmetric stretch",
+          "RelativeIntensity": 0.5
+        }
+      ]
+    },
+    {
+      "Name": "Pyrite",
+      "Peaks": [
+        {
+          "Wavenumber": 343,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.8
+        },
+        {
+          "Wavenumber": 379,
+          "Assignment": "A1g",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 430,
+          "Assignment": "T2g",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Fluorite",
+      "Peaks": [
+        {
+          "Wavenumber": 322,
+          "Assignment": "T2g",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Barite",
+      "Peaks": [
+        {
+          "Wavenumber": 453,
+          "Assignment": "SO4 v2 bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 462,
+          "Assignment": "SO4 v2 bend",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 617,
+          "Assignment": "SO4 v4 bend",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 647,
+          "Assignment": "SO4 v4 bend",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 988,
+          "Assignment": "SO4 v1 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1085,
+          "Assignment": "SO4 v3 asymmetric stretch",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 1105,
+          "Assignment": "SO4 v3 asymmetric stretch",
+          "RelativeIntensity": 0.12
+        },
+        {
+          "Wavenumber": 1141,
+          "Assignment": "SO4 v3 asymmetric stretch",
+          "RelativeIntensity": 0.1
+        }
+      ]
+    },
+    {
+      "Name": "Apatite",
+      "Peaks": [
+        {
+          "Wavenumber": 430,
+          "Assignment": "v2 PO4",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 449,
+          "Assignment": "v2 PO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 581,
+          "Assignment": "v4 PO4",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 592,
+          "Assignment": "v4 PO4",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 609,
+          "Assignment": "v4 PO4",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 962,
+          "Assignment": "v1 PO4 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1030,
+          "Assignment": "v3 PO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1048,
+          "Assignment": "v3 PO4",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1077,
+          "Assignment": "v3 PO4",
+          "RelativeIntensity": 0.12
+        }
+      ]
+    },
+    {
+      "Name": "Talc",
+      "Peaks": [
+        {
+          "Wavenumber": 196,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 363,
+          "Assignment": "Mg-O stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 466,
+          "Assignment": "Si-O bend",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 678,
+          "Assignment": "Si-O-Si symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1050,
+          "Assignment": "Si-O stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 3677,
+          "Assignment": "O-H stretch",
+          "RelativeIntensity": 0.6
+        }
+      ]
+    },
+    {
+      "Name": "Muscovite",
+      "Peaks": [
+        {
+          "Wavenumber": 198,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 264,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 412,
+          "Assignment": "Al-O stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 701,
+          "Assignment": "Si-O-Si stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 908,
+          "Assignment": "AlOH deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 3628,
+          "Assignment": "O-H stretch",
+          "RelativeIntensity": 0.5
+        }
+      ]
+    },
+    {
+      "Name": "Garnet (Almandine)",
+      "Peaks": [
+        {
+          "Wavenumber": 170,
+          "Assignment": "T lattice",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 215,
+          "Assignment": "R lattice",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 346,
+          "Assignment": "R(SiO4)",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 557,
+          "Assignment": "v4 SiO4",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 632,
+          "Assignment": "v4 SiO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 870,
+          "Assignment": "v1 SiO4",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 918,
+          "Assignment": "v3 SiO4",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Zircon",
+      "Peaks": [
+        {
+          "Wavenumber": 202,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 225,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 357,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 439,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 974,
+          "Assignment": "B1g",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1008,
+          "Assignment": "A1g SiO4 stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Topaz",
+      "Peaks": [
+        {
+          "Wavenumber": 239,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 287,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 335,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 455,
+          "Assignment": "Al-F stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 924,
+          "Assignment": "Al-O-Si",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 982,
+          "Assignment": "Si-O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 3649,
+          "Assignment": "O-H stretch",
+          "RelativeIntensity": 0.3
+        }
+      ]
+    },
+    {
+      "Name": "Corundum",
+      "Peaks": [
+        {
+          "Wavenumber": 378,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 418,
+          "Assignment": "A1g",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 432,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 451,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 578,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 645,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 751,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Siderite",
+      "Peaks": [
+        {
+          "Wavenumber": 186,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 287,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 731,
+          "Assignment": "v4 CO3",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1088,
+          "Assignment": "v1 CO3 symmetric",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1445,
+          "Assignment": "v3 CO3",
+          "RelativeIntensity": 0.05
+        }
+      ]
+    },
+    {
+      "Name": "Magnesite",
+      "Peaks": [
+        {
+          "Wavenumber": 213,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 329,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 739,
+          "Assignment": "v4 CO3",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1094,
+          "Assignment": "v1 CO3 symmetric",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1444,
+          "Assignment": "v3 CO3",
+          "RelativeIntensity": 0.05
+        }
+      ]
+    },
+    {
+      "Name": "Anhydrite",
+      "Peaks": [
+        {
+          "Wavenumber": 417,
+          "Assignment": "v2 SO4",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 500,
+          "Assignment": "v2 SO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 611,
+          "Assignment": "v4 SO4",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 629,
+          "Assignment": "v4 SO4",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 676,
+          "Assignment": "v4 SO4",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 1018,
+          "Assignment": "v1 SO4 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1110,
+          "Assignment": "v3 SO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1131,
+          "Assignment": "v3 SO4",
+          "RelativeIntensity": 0.12
+        },
+        {
+          "Wavenumber": 1161,
+          "Assignment": "v3 SO4",
+          "RelativeIntensity": 0.1
+        }
+      ]
+    }
+  ],
+  "Organics": [
+    {
+      "Name": "Ethanol",
+      "Peaks": [
+        {
+          "Wavenumber": 434,
+          "Assignment": "C-C-O deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 880,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1052,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.8
+        },
+        {
+          "Wavenumber": 1090,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1275,
+          "Assignment": "CH2 wag",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1454,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 2876,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 2928,
+          "Assignment": "CH3 asymmetric stretch",
+          "RelativeIntensity": 0.8
+        }
+      ]
+    },
+    {
+      "Name": "Methanol",
+      "Peaks": [
+        {
+          "Wavenumber": 1033,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1108,
+          "Assignment": "CH3 rock",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1454,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 2835,
+          "Assignment": "CH3 symmetric stretch",
+          "RelativeIntensity": 0.7
+        },
+        {
+          "Wavenumber": 2945,
+          "Assignment": "CH3 asymmetric stretch",
+          "RelativeIntensity": 0.8
+        }
+      ]
+    },
+    {
+      "Name": "Acetone",
+      "Peaks": [
+        {
+          "Wavenumber": 390,
+          "Assignment": "C-C-C deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 530,
+          "Assignment": "C-C-C deformation",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 788,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1067,
+          "Assignment": "CH3 rock",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1222,
+          "Assignment": "C-C-C asymmetric stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1430,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1710,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2924,
+          "Assignment": "CH3 stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 3005,
+          "Assignment": "CH3 asymmetric stretch",
+          "RelativeIntensity": 0.5
+        }
+      ]
+    },
+    {
+      "Name": "Benzene",
+      "Peaks": [
+        {
+          "Wavenumber": 606,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 849,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 992,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1178,
+          "Assignment": "C-H in-plane bend",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 1585,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 3062,
+          "Assignment": "=C-H stretch",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Toluene",
+      "Peaks": [
+        {
+          "Wavenumber": 521,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 786,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1002,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1030,
+          "Assignment": "C-H in-plane",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1210,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 1379,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1605,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 2920,
+          "Assignment": "CH3 stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 3057,
+          "Assignment": "=C-H stretch",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Chloroform",
+      "Peaks": [
+        {
+          "Wavenumber": 262,
+          "Assignment": "C-Cl bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 366,
+          "Assignment": "C-Cl symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 668,
+          "Assignment": "C-Cl asymmetric stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 761,
+          "Assignment": "C-Cl stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 3019,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.2
+        }
+      ]
+    },
+    {
+      "Name": "Acetic Acid",
+      "Peaks": [
+        {
+          "Wavenumber": 624,
+          "Assignment": "O-C=O deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 891,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1049,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1294,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1430,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1712,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2940,
+          "Assignment": "CH3 stretch",
+          "RelativeIntensity": 0.5
+        }
+      ]
+    },
+    {
+      "Name": "Dimethyl Sulfoxide",
+      "Peaks": [
+        {
+          "Wavenumber": 308,
+          "Assignment": "C-S-C deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 383,
+          "Assignment": "C-S stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 668,
+          "Assignment": "C-S symmetric stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 699,
+          "Assignment": "C-S asymmetric stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 953,
+          "Assignment": "CH3 rock",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1042,
+          "Assignment": "S=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1420,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 2913,
+          "Assignment": "CH3 symmetric stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 3000,
+          "Assignment": "CH3 asymmetric stretch",
+          "RelativeIntensity": 0.4
+        }
+      ]
+    },
+    {
+      "Name": "Cyclohexane",
+      "Peaks": [
+        {
+          "Wavenumber": 384,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 801,
+          "Assignment": "CH2 rock",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1028,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1157,
+          "Assignment": "CH2 wag",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1266,
+          "Assignment": "CH2 twist",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1444,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2853,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2923,
+          "Assignment": "CH2 asymmetric stretch",
+          "RelativeIntensity": 0.8
+        }
+      ]
+    },
+    {
+      "Name": "Naphthalene",
+      "Peaks": [
+        {
+          "Wavenumber": 395,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 513,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 764,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1021,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1148,
+          "Assignment": "C-H in-plane",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1382,
+          "Assignment": "ring stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1464,
+          "Assignment": "ring stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1577,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 3057,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.2
+        }
+      ]
+    },
+    {
+      "Name": "Formic Acid",
+      "Peaks": [
+        {
+          "Wavenumber": 625,
+          "Assignment": "O-C=O deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1060,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1220,
+          "Assignment": "C-H in-plane bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1380,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1724,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2869,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.5
+        }
+      ]
+    },
+    {
+      "Name": "Isopropanol",
+      "Peaks": [
+        {
+          "Wavenumber": 819,
+          "Assignment": "C-C-O stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 954,
+          "Assignment": "CH3 rock",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1128,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1340,
+          "Assignment": "C-H bend",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1454,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 2882,
+          "Assignment": "CH stretch",
+          "RelativeIntensity": 0.7
+        },
+        {
+          "Wavenumber": 2920,
+          "Assignment": "CH3 symmetric stretch",
+          "RelativeIntensity": 0.8
+        },
+        {
+          "Wavenumber": 2972,
+          "Assignment": "CH3 asymmetric stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Glycerol",
+      "Peaks": [
+        {
+          "Wavenumber": 485,
+          "Assignment": "C-C-O deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 820,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 922,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1055,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1112,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1260,
+          "Assignment": "C-H bend",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1462,
+          "Assignment": "CH2 deformation",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 2880,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.7
+        },
+        {
+          "Wavenumber": 2945,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Urea",
+      "Peaks": [
+        {
+          "Wavenumber": 547,
+          "Assignment": "N-C-N deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1003,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1465,
+          "Assignment": "N-C-N asymmetric stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1541,
+          "Assignment": "NH2 deformation",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1630,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 3348,
+          "Assignment": "N-H symmetric stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 3435,
+          "Assignment": "N-H asymmetric stretch",
+          "RelativeIntensity": 0.4
+        }
+      ]
+    },
+    {
+      "Name": "Oxalic Acid",
+      "Peaks": [
+        {
+          "Wavenumber": 477,
+          "Assignment": "C-C=O deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 596,
+          "Assignment": "O-C=O bend",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 861,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1189,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1456,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1741,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    }
+  ],
+  "Pharmaceuticals": [
+    {
+      "Name": "Paracetamol",
+      "Peaks": [
+        {
+          "Wavenumber": 329,
+          "Assignment": "ring torsion",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 503,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 651,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 711,
+          "Assignment": "N-H wag",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 797,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 834,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 858,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1105,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1169,
+          "Assignment": "C-H in-plane bend",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1236,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1324,
+          "Assignment": "C-N stretch amide",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1562,
+          "Assignment": "amide II",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1610,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.55
+        },
+        {
+          "Wavenumber": 1648,
+          "Assignment": "C=O amide stretch",
+          "RelativeIntensity": 0.9
+        },
+        {
+          "Wavenumber": 3326,
+          "Assignment": "N-H stretch",
+          "RelativeIntensity": 0.4
+        }
+      ]
+    },
+    {
+      "Name": "Aspirin",
+      "Peaks": [
+        {
+          "Wavenumber": 565,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 750,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 784,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1045,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1190,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1309,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1607,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1752,
+          "Assignment": "C=O stretch (ester)",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 3072,
+          "Assignment": "=C-H stretch",
+          "RelativeIntensity": 0.2
+        }
+      ]
+    },
+    {
+      "Name": "Ibuprofen",
+      "Peaks": [
+        {
+          "Wavenumber": 636,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 747,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 815,
+          "Assignment": "aromatic C-H",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 960,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1006,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1184,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1230,
+          "Assignment": "C-H bend",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1382,
+          "Assignment": "CH3 symmetric deformation",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1456,
+          "Assignment": "CH3 asymmetric deformation",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1608,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1660,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2870,
+          "Assignment": "CH3 symmetric stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2933,
+          "Assignment": "CH3 asymmetric stretch",
+          "RelativeIntensity": 0.55
+        }
+      ]
+    },
+    {
+      "Name": "Caffeine",
+      "Peaks": [
+        {
+          "Wavenumber": 556,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 644,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 741,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 925,
+          "Assignment": "N-CH3 stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1071,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1239,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1328,
+          "Assignment": "imidazole stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1403,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1555,
+          "Assignment": "C=N stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1600,
+          "Assignment": "ring stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1659,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1698,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 0.85
+        }
+      ]
+    },
+    {
+      "Name": "Naproxen",
+      "Peaks": [
+        {
+          "Wavenumber": 389,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 511,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 745,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 860,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1029,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1161,
+          "Assignment": "C-O-C stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1262,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1390,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1482,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1631,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.55
+        },
+        {
+          "Wavenumber": 1685,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Amoxicillin",
+      "Peaks": [
+        {
+          "Wavenumber": 629,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 777,
+          "Assignment": "C-S stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1004,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1138,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1252,
+          "Assignment": "amide III",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1390,
+          "Assignment": "COO- symmetric stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1512,
+          "Assignment": "amide II",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1615,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1668,
+          "Assignment": "C=O beta-lactam",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1775,
+          "Assignment": "C=O ester",
+          "RelativeIntensity": 0.3
+        }
+      ]
+    },
+    {
+      "Name": "Diclofenac",
+      "Peaks": [
+        {
+          "Wavenumber": 439,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 571,
+          "Assignment": "C-Cl stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 680,
+          "Assignment": "C-Cl stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 769,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 953,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1045,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1167,
+          "Assignment": "C-H in-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1285,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1453,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1507,
+          "Assignment": "NH bend",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1579,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.8
+        },
+        {
+          "Wavenumber": 1605,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1685,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Metformin",
+      "Peaks": [
+        {
+          "Wavenumber": 700,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 740,
+          "Assignment": "N-H wag",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 936,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1065,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1170,
+          "Assignment": "N-H bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1275,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1418,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1473,
+          "Assignment": "C=N stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1558,
+          "Assignment": "C=N stretch",
+          "RelativeIntensity": 0.55
+        },
+        {
+          "Wavenumber": 1625,
+          "Assignment": "NH2 scissor",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1668,
+          "Assignment": "C=N stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 3170,
+          "Assignment": "N-H stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 3370,
+          "Assignment": "N-H stretch",
+          "RelativeIntensity": 0.35
+        }
+      ]
+    },
+    {
+      "Name": "Ciprofloxacin",
+      "Peaks": [
+        {
+          "Wavenumber": 518,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 705,
+          "Assignment": "C-F stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 785,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1028,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1254,
+          "Assignment": "C-F stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1340,
+          "Assignment": "quinolone stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1386,
+          "Assignment": "COO stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1474,
+          "Assignment": "ring stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1548,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1622,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 0.7
+        },
+        {
+          "Wavenumber": 1708,
+          "Assignment": "COOH C=O stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Acetaminophen (Form II)",
+      "Peaks": [
+        {
+          "Wavenumber": 390,
+          "Assignment": "ring torsion",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 465,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 505,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 652,
+          "Assignment": "ring out-of-plane",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 797,
+          "Assignment": "C-H oop",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 835,
+          "Assignment": "C-H oop",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 855,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.95
+        },
+        {
+          "Wavenumber": 1170,
+          "Assignment": "C-H in-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1237,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1325,
+          "Assignment": "amide III",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1612,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.55
+        },
+        {
+          "Wavenumber": 1655,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Celecoxib",
+      "Peaks": [
+        {
+          "Wavenumber": 585,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 767,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1004,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1094,
+          "Assignment": "C-F stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1166,
+          "Assignment": "C-H in-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1228,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1348,
+          "Assignment": "SO2 symmetric stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1446,
+          "Assignment": "ring stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1524,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1597,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.55
+        },
+        {
+          "Wavenumber": 1728,
+          "Assignment": "C=N stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Omeprazole",
+      "Peaks": [
+        {
+          "Wavenumber": 564,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 786,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 834,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1011,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1147,
+          "Assignment": "S=O stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1290,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1370,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1468,
+          "Assignment": "ring stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1579,
+          "Assignment": "ring C=C/C=N",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1609,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.7
+        },
+        {
+          "Wavenumber": 1689,
+          "Assignment": "C=N stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    }
+  ],
+  "Polymers": [
+    {
+      "Name": "Polystyrene",
+      "Peaks": [
+        {
+          "Wavenumber": 621,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 795,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1001,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1031,
+          "Assignment": "C-H in-plane",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1155,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1450,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1583,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1602,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 2852,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 2904,
+          "Assignment": "CH2 asymmetric stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 3054,
+          "Assignment": "=C-H stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 3082,
+          "Assignment": "=C-H stretch",
+          "RelativeIntensity": 0.2
+        }
+      ]
+    },
+    {
+      "Name": "Polyethylene",
+      "Peaks": [
+        {
+          "Wavenumber": 1063,
+          "Assignment": "C-C stretch (trans)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1130,
+          "Assignment": "C-C stretch (gauche)",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1170,
+          "Assignment": "CH2 wag",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1296,
+          "Assignment": "CH2 twist",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1440,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2850,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2883,
+          "Assignment": "CH2 asymmetric stretch",
+          "RelativeIntensity": 0.9
+        }
+      ]
+    },
+    {
+      "Name": "Polypropylene",
+      "Peaks": [
+        {
+          "Wavenumber": 399,
+          "Assignment": "CH2 wag",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 808,
+          "Assignment": "C-C stretch / CH2 rock",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 841,
+          "Assignment": "C-C stretch / CH2 rock",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 973,
+          "Assignment": "CH3 rock",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 998,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1152,
+          "Assignment": "C-C stretch / C-H bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1330,
+          "Assignment": "CH2 deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1460,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2840,
+          "Assignment": "CH stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 2870,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 2920,
+          "Assignment": "CH2 asymmetric stretch",
+          "RelativeIntensity": 0.8
+        },
+        {
+          "Wavenumber": 2953,
+          "Assignment": "CH3 asymmetric stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "PET (Polyethylene Terephthalate)",
+      "Peaks": [
+        {
+          "Wavenumber": 633,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 795,
+          "Assignment": "ring C-H oop",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 858,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1096,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1117,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1287,
+          "Assignment": "ring C-C stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1614,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1726,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 3080,
+          "Assignment": "ring C-H stretch",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Nylon-6",
+      "Peaks": [
+        {
+          "Wavenumber": 934,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1065,
+          "Assignment": "C-C stretch (trans)",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1130,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1303,
+          "Assignment": "amide III",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1442,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1636,
+          "Assignment": "amide I (C=O stretch)",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2857,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2900,
+          "Assignment": "CH2 asymmetric stretch",
+          "RelativeIntensity": 0.55
+        },
+        {
+          "Wavenumber": 3303,
+          "Assignment": "N-H stretch",
+          "RelativeIntensity": 0.4
+        }
+      ]
+    },
+    {
+      "Name": "PMMA (Polymethyl Methacrylate)",
+      "Peaks": [
+        {
+          "Wavenumber": 600,
+          "Assignment": "C-C-O deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 813,
+          "Assignment": "C-O-C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 966,
+          "Assignment": "OCH3 rock",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1124,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1240,
+          "Assignment": "C-O-C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1450,
+          "Assignment": "CH3 deformation",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1731,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2843,
+          "Assignment": "O-CH3 stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 2951,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.6
+        }
+      ]
+    },
+    {
+      "Name": "PVC (Polyvinyl Chloride)",
+      "Peaks": [
+        {
+          "Wavenumber": 358,
+          "Assignment": "C-Cl stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 636,
+          "Assignment": "C-Cl stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 694,
+          "Assignment": "C-Cl stretch",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1100,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1176,
+          "Assignment": "C-H wag",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1333,
+          "Assignment": "CH2 deformation",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1434,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 2853,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 0.8
+        },
+        {
+          "Wavenumber": 2912,
+          "Assignment": "CH2 asymmetric stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "PTFE (Teflon)",
+      "Peaks": [
+        {
+          "Wavenumber": 292,
+          "Assignment": "CF2 deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 385,
+          "Assignment": "CF2 wag",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 576,
+          "Assignment": "CF2 deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 731,
+          "Assignment": "CF2 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1218,
+          "Assignment": "CF2 asymmetric stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1301,
+          "Assignment": "CF2 stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1382,
+          "Assignment": "CF2 wag",
+          "RelativeIntensity": 0.2
+        }
+      ]
+    },
+    {
+      "Name": "Polyurethane",
+      "Peaks": [
+        {
+          "Wavenumber": 637,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 775,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1065,
+          "Assignment": "C-O-C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1186,
+          "Assignment": "C-O-C stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1307,
+          "Assignment": "amide III",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1440,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1533,
+          "Assignment": "amide II",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1616,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1700,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2862,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 2940,
+          "Assignment": "CH2 asymmetric stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 3330,
+          "Assignment": "N-H stretch",
+          "RelativeIntensity": 0.3
+        }
+      ]
+    },
+    {
+      "Name": "Polycarbonate",
+      "Peaks": [
+        {
+          "Wavenumber": 637,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 707,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 830,
+          "Assignment": "ring C-H oop",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 887,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1006,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1112,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1234,
+          "Assignment": "C-O-C asymmetric stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1456,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1602,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1775,
+          "Assignment": "C=O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 3060,
+          "Assignment": "ring C-H stretch",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "ABS (Acrylonitrile Butadiene Styrene)",
+      "Peaks": [
+        {
+          "Wavenumber": 620,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 760,
+          "Assignment": "C-H out-of-plane",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1002,
+          "Assignment": "styrene ring breathing",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1032,
+          "Assignment": "C-H in-plane",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1157,
+          "Assignment": "butadiene C-C stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1452,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1583,
+          "Assignment": "styrene C=C",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1602,
+          "Assignment": "styrene C=C",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 2240,
+          "Assignment": "C-N stretch (nitrile)",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 2852,
+          "Assignment": "CH2 stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 3055,
+          "Assignment": "=C-H stretch",
+          "RelativeIntensity": 0.2
+        }
+      ]
+    }
+  ],
+  "Carbon Materials": [
+    {
+      "Name": "Graphite",
+      "Peaks": [
+        {
+          "Wavenumber": 1350,
+          "Assignment": "D band",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1582,
+          "Assignment": "G band",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2450,
+          "Assignment": "D+D'' band",
+          "RelativeIntensity": 0.05
+        },
+        {
+          "Wavenumber": 2700,
+          "Assignment": "2D band",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 3248,
+          "Assignment": "2D' band",
+          "RelativeIntensity": 0.05
+        }
+      ]
+    },
+    {
+      "Name": "Diamond",
+      "Peaks": [
+        {
+          "Wavenumber": 1332,
+          "Assignment": "C-C symmetric stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Single-Layer Graphene",
+      "Peaks": [
+        {
+          "Wavenumber": 1583,
+          "Assignment": "G band",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 2680,
+          "Assignment": "2D band",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Multi-Layer Graphene",
+      "Peaks": [
+        {
+          "Wavenumber": 1350,
+          "Assignment": "D band",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 1583,
+          "Assignment": "G band",
+          "RelativeIntensity": 0.7
+        },
+        {
+          "Wavenumber": 2700,
+          "Assignment": "2D band",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Carbon Nanotube (SWCNT)",
+      "Peaks": [
+        {
+          "Wavenumber": 165,
+          "Assignment": "RBM",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1340,
+          "Assignment": "D band",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1590,
+          "Assignment": "G+ band",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1570,
+          "Assignment": "G- band",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 2680,
+          "Assignment": "2D band",
+          "RelativeIntensity": 0.4
+        }
+      ]
+    },
+    {
+      "Name": "Carbon Nanotube (MWCNT)",
+      "Peaks": [
+        {
+          "Wavenumber": 1350,
+          "Assignment": "D band",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1580,
+          "Assignment": "G band",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2700,
+          "Assignment": "2D band",
+          "RelativeIntensity": 0.3
+        }
+      ]
+    },
+    {
+      "Name": "Amorphous Carbon",
+      "Peaks": [
+        {
+          "Wavenumber": 1350,
+          "Assignment": "D band",
+          "RelativeIntensity": 0.9
+        },
+        {
+          "Wavenumber": 1580,
+          "Assignment": "G band",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2700,
+          "Assignment": "2D band (broad)",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Graphene Oxide",
+      "Peaks": [
+        {
+          "Wavenumber": 1350,
+          "Assignment": "D band",
+          "RelativeIntensity": 0.95
+        },
+        {
+          "Wavenumber": 1600,
+          "Assignment": "G band",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2700,
+          "Assignment": "2D band (broad)",
+          "RelativeIntensity": 0.1
+        }
+      ]
+    },
+    {
+      "Name": "Fullerene C60",
+      "Peaks": [
+        {
+          "Wavenumber": 272,
+          "Assignment": "Hg(1)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 496,
+          "Assignment": "Ag(1)",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 710,
+          "Assignment": "Hg(3)",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 774,
+          "Assignment": "Hg(4)",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1099,
+          "Assignment": "Hg(5)",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1248,
+          "Assignment": "Hg(6)",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1425,
+          "Assignment": "Hg(7)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1469,
+          "Assignment": "Ag(2) pentagonal pinch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1574,
+          "Assignment": "Hg(8)",
+          "RelativeIntensity": 0.25
+        }
+      ]
+    },
+    {
+      "Name": "Diamond-Like Carbon (DLC)",
+      "Peaks": [
+        {
+          "Wavenumber": 1332,
+          "Assignment": "sp3 diamond",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1360,
+          "Assignment": "D band (sp2)",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1580,
+          "Assignment": "G band (sp2)",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    }
+  ],
+  "Oxides and Semiconductors": [
+    {
+      "Name": "Silicon",
+      "Peaks": [
+        {
+          "Wavenumber": 302,
+          "Assignment": "TA overtone",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 520,
+          "Assignment": "first-order LO-TO",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 960,
+          "Assignment": "second-order 2TO",
+          "RelativeIntensity": 0.05
+        }
+      ]
+    },
+    {
+      "Name": "Zinc Oxide (ZnO)",
+      "Peaks": [
+        {
+          "Wavenumber": 99,
+          "Assignment": "E2-low",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 332,
+          "Assignment": "E2H-E2L",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 380,
+          "Assignment": "A1(TO)",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 410,
+          "Assignment": "E1(TO)",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 438,
+          "Assignment": "E2-high",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 584,
+          "Assignment": "A1(LO)",
+          "RelativeIntensity": 0.1
+        }
+      ]
+    },
+    {
+      "Name": "Cerium Oxide (CeO2)",
+      "Peaks": [
+        {
+          "Wavenumber": 465,
+          "Assignment": "F2g",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 600,
+          "Assignment": "defect-induced",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1170,
+          "Assignment": "2LO",
+          "RelativeIntensity": 0.05
+        }
+      ]
+    },
+    {
+      "Name": "Iron Oxide (Maghemite)",
+      "Peaks": [
+        {
+          "Wavenumber": 350,
+          "Assignment": "T2g",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 500,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 670,
+          "Assignment": "A1g",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 720,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.3
+        }
+      ]
+    },
+    {
+      "Name": "Tin Oxide (SnO2)",
+      "Peaks": [
+        {
+          "Wavenumber": 476,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 634,
+          "Assignment": "A1g",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 776,
+          "Assignment": "B2g",
+          "RelativeIntensity": 0.2
+        }
+      ]
+    },
+    {
+      "Name": "Tungsten Oxide (WO3)",
+      "Peaks": [
+        {
+          "Wavenumber": 133,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 272,
+          "Assignment": "O-W-O bending",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 326,
+          "Assignment": "O-W-O bending",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 715,
+          "Assignment": "W-O-W stretch",
+          "RelativeIntensity": 0.8
+        },
+        {
+          "Wavenumber": 808,
+          "Assignment": "W=O stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Molybdenum Disulfide (MoS2)",
+      "Peaks": [
+        {
+          "Wavenumber": 286,
+          "Assignment": "E1g",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 383,
+          "Assignment": "E2g1",
+          "RelativeIntensity": 0.7
+        },
+        {
+          "Wavenumber": 408,
+          "Assignment": "A1g",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 454,
+          "Assignment": "A2u",
+          "RelativeIntensity": 0.05
+        }
+      ]
+    },
+    {
+      "Name": "Copper Oxide (CuO)",
+      "Peaks": [
+        {
+          "Wavenumber": 296,
+          "Assignment": "Ag",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 346,
+          "Assignment": "Bg",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 631,
+          "Assignment": "Bg",
+          "RelativeIntensity": 0.3
+        }
+      ]
+    },
+    {
+      "Name": "Aluminum Oxide (Al2O3)",
+      "Peaks": [
+        {
+          "Wavenumber": 378,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 418,
+          "Assignment": "A1g",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 432,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 451,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 578,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 645,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 751,
+          "Assignment": "Eg",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Gallium Nitride (GaN)",
+      "Peaks": [
+        {
+          "Wavenumber": 144,
+          "Assignment": "E2-low",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 533,
+          "Assignment": "A1(TO)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 560,
+          "Assignment": "E1(TO)",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 569,
+          "Assignment": "E2-high",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 735,
+          "Assignment": "A1(LO)",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 743,
+          "Assignment": "E1(LO)",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Barium Titanate (BaTiO3)",
+      "Peaks": [
+        {
+          "Wavenumber": 185,
+          "Assignment": "A1(LO)",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 257,
+          "Assignment": "A1(TO)",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 305,
+          "Assignment": "B1/E(TO+LO)",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 516,
+          "Assignment": "A1(TO)",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 715,
+          "Assignment": "A1(LO)/E(LO)",
+          "RelativeIntensity": 0.3
+        }
+      ]
+    },
+    {
+      "Name": "Lithium Niobate (LiNbO3)",
+      "Peaks": [
+        {
+          "Wavenumber": 153,
+          "Assignment": "E(TO)",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 238,
+          "Assignment": "E(TO)",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 264,
+          "Assignment": "A1(TO)",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 276,
+          "Assignment": "E(TO)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 324,
+          "Assignment": "E(TO)",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 370,
+          "Assignment": "A1(TO)",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 432,
+          "Assignment": "E(TO)",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 580,
+          "Assignment": "E(TO)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 630,
+          "Assignment": "A1(TO)",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 875,
+          "Assignment": "A1(LO)",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Vanadium Pentoxide (V2O5)",
+      "Peaks": [
+        {
+          "Wavenumber": 145,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 195,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 283,
+          "Assignment": "V=O bend",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 304,
+          "Assignment": "V-O-V bend",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 405,
+          "Assignment": "V-O-V bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 481,
+          "Assignment": "V-O-V stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 527,
+          "Assignment": "V-O-V stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 700,
+          "Assignment": "V-O-V stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 994,
+          "Assignment": "V=O stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    }
+  ],
+  "Biomolecules": [
+    {
+      "Name": "L-Alanine",
+      "Peaks": [
+        {
+          "Wavenumber": 532,
+          "Assignment": "CO2 rock",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 770,
+          "Assignment": "CO2 wag",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 846,
+          "Assignment": "C-C-N stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 919,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1004,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1114,
+          "Assignment": "NH3 rock",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1307,
+          "Assignment": "CH bend",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1375,
+          "Assignment": "CH3 symmetric deformation",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1461,
+          "Assignment": "CH3 asymmetric deformation",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1595,
+          "Assignment": "COO- asymmetric stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2934,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 2989,
+          "Assignment": "CH3 asymmetric stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "L-Cysteine",
+      "Peaks": [
+        {
+          "Wavenumber": 500,
+          "Assignment": "S-S stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 679,
+          "Assignment": "C-S stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 767,
+          "Assignment": "CO2 wag",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 862,
+          "Assignment": "C-C-N stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 938,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1064,
+          "Assignment": "C-N stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1197,
+          "Assignment": "NH3 rock",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1344,
+          "Assignment": "CH bend",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1407,
+          "Assignment": "COO- symmetric stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1583,
+          "Assignment": "COO- asymmetric stretch / NH3 bend",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2551,
+          "Assignment": "S-H stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2960,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.4
+        }
+      ]
+    },
+    {
+      "Name": "L-Phenylalanine",
+      "Peaks": [
+        {
+          "Wavenumber": 621,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 750,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 831,
+          "Assignment": "ring C-H oop",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 1003,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1032,
+          "Assignment": "C-H in-plane bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1208,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1584,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1606,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 3062,
+          "Assignment": "ring C-H stretch",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "L-Tyrosine",
+      "Peaks": [
+        {
+          "Wavenumber": 643,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 829,
+          "Assignment": "ring breathing",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 856,
+          "Assignment": "ring breathing (Fermi doublet)",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 1177,
+          "Assignment": "C-H in-plane",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1210,
+          "Assignment": "C-O stretch (phenol)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1268,
+          "Assignment": "ring C-O-H bend",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1447,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1617,
+          "Assignment": "ring C=C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 3060,
+          "Assignment": "ring C-H stretch",
+          "RelativeIntensity": 0.1
+        }
+      ]
+    },
+    {
+      "Name": "L-Tryptophan",
+      "Peaks": [
+        {
+          "Wavenumber": 577,
+          "Assignment": "indole ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 760,
+          "Assignment": "indole ring breathing",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 881,
+          "Assignment": "indole N-H wag",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1013,
+          "Assignment": "indole ring",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1236,
+          "Assignment": "C-H bend",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1342,
+          "Assignment": "indole ring stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1462,
+          "Assignment": "indole C=C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1557,
+          "Assignment": "indole C=C stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1622,
+          "Assignment": "indole ring stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Glucose",
+      "Peaks": [
+        {
+          "Wavenumber": 420,
+          "Assignment": "C-C-C deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 525,
+          "Assignment": "C-C-O deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 842,
+          "Assignment": "C-H deformation",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 911,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1022,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1065,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 1127,
+          "Assignment": "C-O-H bend",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1340,
+          "Assignment": "C-O-H bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1462,
+          "Assignment": "C-H deformation",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 2893,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2947,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.55
+        }
+      ]
+    },
+    {
+      "Name": "Sucrose",
+      "Peaks": [
+        {
+          "Wavenumber": 404,
+          "Assignment": "C-C-C deformation",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 541,
+          "Assignment": "C-C-O deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 634,
+          "Assignment": "C-C-O deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 840,
+          "Assignment": "C-H deformation",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 878,
+          "Assignment": "C-O-C stretch",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 921,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1063,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1133,
+          "Assignment": "C-O-H bend",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1263,
+          "Assignment": "C-O-H bend",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1370,
+          "Assignment": "C-H deformation",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1460,
+          "Assignment": "C-H deformation",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 2910,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2945,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.55
+        }
+      ]
+    },
+    {
+      "Name": "Amide I (Protein backbone)",
+      "Peaks": [
+        {
+          "Wavenumber": 1004,
+          "Assignment": "phenylalanine ring",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1250,
+          "Assignment": "amide III (random coil)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1268,
+          "Assignment": "amide III (alpha-helix)",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1400,
+          "Assignment": "COO- symmetric stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1450,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1555,
+          "Assignment": "amide II",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1655,
+          "Assignment": "amide I (alpha-helix)",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1670,
+          "Assignment": "amide I (beta-sheet)",
+          "RelativeIntensity": 0.8
+        },
+        {
+          "Wavenumber": 2930,
+          "Assignment": "C-H stretch",
+          "RelativeIntensity": 0.4
+        }
+      ]
+    },
+    {
+      "Name": "DNA backbone",
+      "Peaks": [
+        {
+          "Wavenumber": 670,
+          "Assignment": "thymine ring",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 729,
+          "Assignment": "adenine ring",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 784,
+          "Assignment": "cytosine ring / PO2 stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 830,
+          "Assignment": "B-form marker",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1013,
+          "Assignment": "sugar-phosphate",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1096,
+          "Assignment": "PO2- symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1240,
+          "Assignment": "PO2- asymmetric stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1340,
+          "Assignment": "adenine / guanine",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1490,
+          "Assignment": "purine ring",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1578,
+          "Assignment": "purine ring",
+          "RelativeIntensity": 0.2
+        }
+      ]
+    },
+    {
+      "Name": "Cholesterol",
+      "Peaks": [
+        {
+          "Wavenumber": 428,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 548,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 609,
+          "Assignment": "ring deformation",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 700,
+          "Assignment": "C-C steroidal stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 882,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 958,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1055,
+          "Assignment": "C-O stretch",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 1130,
+          "Assignment": "C-C stretch (trans)",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1440,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1672,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 2850,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 2870,
+          "Assignment": "CH3 symmetric stretch",
+          "RelativeIntensity": 0.45
+        },
+        {
+          "Wavenumber": 2930,
+          "Assignment": "CH2 asymmetric stretch",
+          "RelativeIntensity": 0.55
+        },
+        {
+          "Wavenumber": 2960,
+          "Assignment": "CH3 asymmetric stretch",
+          "RelativeIntensity": 0.5
+        }
+      ]
+    },
+    {
+      "Name": "Hemoglobin",
+      "Peaks": [
+        {
+          "Wavenumber": 674,
+          "Assignment": "porphyrin ring (v7)",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 752,
+          "Assignment": "porphyrin ring (v15)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1003,
+          "Assignment": "phenylalanine",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1127,
+          "Assignment": "porphyrin (v22)",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1224,
+          "Assignment": "amide III",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1310,
+          "Assignment": "porphyrin (v21)",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1375,
+          "Assignment": "porphyrin (v4) oxidation marker",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1545,
+          "Assignment": "porphyrin (v11)",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1585,
+          "Assignment": "porphyrin (v37)",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1620,
+          "Assignment": "porphyrin (v(C=C))",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1655,
+          "Assignment": "amide I",
+          "RelativeIntensity": 0.5
+        }
+      ]
+    },
+    {
+      "Name": "Lipid (General)",
+      "Peaks": [
+        {
+          "Wavenumber": 864,
+          "Assignment": "C-C stretch",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 1065,
+          "Assignment": "C-C stretch (trans)",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 1130,
+          "Assignment": "C-C stretch (gauche)",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 1265,
+          "Assignment": "=C-H in-plane bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 1301,
+          "Assignment": "CH2 twist",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 1440,
+          "Assignment": "CH2 scissor",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1660,
+          "Assignment": "C=C stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 2850,
+          "Assignment": "CH2 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 2885,
+          "Assignment": "CH2 asymmetric stretch",
+          "RelativeIntensity": 0.9
+        },
+        {
+          "Wavenumber": 3010,
+          "Assignment": "=C-H stretch",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    }
+  ],
+  "Additional Compounds": [
+    {
+      "Name": "Water (liquid)",
+      "Peaks": [
+        {
+          "Wavenumber": 1640,
+          "Assignment": "H-O-H bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 3250,
+          "Assignment": "O-H stretch (symmetric)",
+          "RelativeIntensity": 0.7
+        },
+        {
+          "Wavenumber": 3420,
+          "Assignment": "O-H stretch (asymmetric)",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Carbon Dioxide (CO2)",
+      "Peaks": [
+        {
+          "Wavenumber": 1285,
+          "Assignment": "v1 symmetric stretch / 2v2 Fermi",
+          "RelativeIntensity": 0.7
+        },
+        {
+          "Wavenumber": 1388,
+          "Assignment": "v1 symmetric stretch / 2v2 Fermi",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Sulfur (elemental)",
+      "Peaks": [
+        {
+          "Wavenumber": 152,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 218,
+          "Assignment": "S-S stretch",
+          "RelativeIntensity": 0.6
+        },
+        {
+          "Wavenumber": 246,
+          "Assignment": "S-S stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 437,
+          "Assignment": "S-S stretch",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 473,
+          "Assignment": "S-S stretch",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Calcium Carbonate (Vaterite)",
+      "Peaks": [
+        {
+          "Wavenumber": 268,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 301,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 739,
+          "Assignment": "v4 CO3",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 750,
+          "Assignment": "v4 CO3",
+          "RelativeIntensity": 0.12
+        },
+        {
+          "Wavenumber": 1075,
+          "Assignment": "v1 CO3",
+          "RelativeIntensity": 0.9
+        },
+        {
+          "Wavenumber": 1090,
+          "Assignment": "v1 CO3",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Sodium Chloride (NaCl)",
+      "Peaks": [
+        {
+          "Wavenumber": 250,
+          "Assignment": "2TA",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 302,
+          "Assignment": "LO-TO",
+          "RelativeIntensity": 0.15
+        }
+      ]
+    },
+    {
+      "Name": "Calcium Sulfate",
+      "Peaks": [
+        {
+          "Wavenumber": 417,
+          "Assignment": "v2 SO4",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 497,
+          "Assignment": "v2 SO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 610,
+          "Assignment": "v4 SO4",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 628,
+          "Assignment": "v4 SO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1017,
+          "Assignment": "v1 SO4 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1110,
+          "Assignment": "v3 SO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1130,
+          "Assignment": "v3 SO4",
+          "RelativeIntensity": 0.12
+        }
+      ]
+    },
+    {
+      "Name": "Titanium Dioxide (Brookite)",
+      "Peaks": [
+        {
+          "Wavenumber": 128,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 153,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 247,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 290,
+          "Assignment": "B1g",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 322,
+          "Assignment": "B2g",
+          "RelativeIntensity": 0.35
+        },
+        {
+          "Wavenumber": 366,
+          "Assignment": "B3g",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 413,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 502,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 545,
+          "Assignment": "A1g",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 585,
+          "Assignment": "B3g",
+          "RelativeIntensity": 0.1
+        },
+        {
+          "Wavenumber": 636,
+          "Assignment": "A1g",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Potassium Permanganate",
+      "Peaks": [
+        {
+          "Wavenumber": 350,
+          "Assignment": "v2 MnO4",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 400,
+          "Assignment": "v4 MnO4",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 450,
+          "Assignment": "v4 MnO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 840,
+          "Assignment": "v1 MnO4 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 920,
+          "Assignment": "v3 MnO4 asymmetric stretch",
+          "RelativeIntensity": 0.3
+        }
+      ]
+    },
+    {
+      "Name": "Sodium Sulfate",
+      "Peaks": [
+        {
+          "Wavenumber": 451,
+          "Assignment": "v2 SO4",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 619,
+          "Assignment": "v4 SO4",
+          "RelativeIntensity": 0.25
+        },
+        {
+          "Wavenumber": 632,
+          "Assignment": "v4 SO4",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 993,
+          "Assignment": "v1 SO4 symmetric stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1101,
+          "Assignment": "v3 SO4",
+          "RelativeIntensity": 0.15
+        },
+        {
+          "Wavenumber": 1131,
+          "Assignment": "v3 SO4",
+          "RelativeIntensity": 0.12
+        },
+        {
+          "Wavenumber": 1153,
+          "Assignment": "v3 SO4",
+          "RelativeIntensity": 0.1
+        }
+      ]
+    },
+    {
+      "Name": "Fly Ash (Mullite phase)",
+      "Peaks": [
+        {
+          "Wavenumber": 305,
+          "Assignment": "lattice mode",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 408,
+          "Assignment": "Al-O stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 600,
+          "Assignment": "Si-O-Al stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 730,
+          "Assignment": "Si-O-Si stretch",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 960,
+          "Assignment": "Si-O stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1080,
+          "Assignment": "Si-O stretch",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 1170,
+          "Assignment": "Si-O-Si stretch",
+          "RelativeIntensity": 0.2
+        }
+      ]
+    },
+    {
+      "Name": "Calcium Hydroxide (Portlandite)",
+      "Peaks": [
+        {
+          "Wavenumber": 255,
+          "Assignment": "Ca-O lattice",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 357,
+          "Assignment": "Ca-OH vibration",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 680,
+          "Assignment": "O-H libration",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 3620,
+          "Assignment": "O-H stretch (sharp)",
+          "RelativeIntensity": 1.0
+        }
+      ]
+    },
+    {
+      "Name": "Calcium Silicate Hydrate (C-S-H)",
+      "Peaks": [
+        {
+          "Wavenumber": 320,
+          "Assignment": "Ca-O lattice",
+          "RelativeIntensity": 0.2
+        },
+        {
+          "Wavenumber": 450,
+          "Assignment": "Si-O bend",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 670,
+          "Assignment": "Si-O-Si bend",
+          "RelativeIntensity": 1.0
+        },
+        {
+          "Wavenumber": 850,
+          "Assignment": "Si-O stretch",
+          "RelativeIntensity": 0.4
+        },
+        {
+          "Wavenumber": 1010,
+          "Assignment": "Si-O stretch",
+          "RelativeIntensity": 0.5
+        },
+        {
+          "Wavenumber": 1085,
+          "Assignment": "CO3 v1 (carbonation)",
+          "RelativeIntensity": 0.3
+        },
+        {
+          "Wavenumber": 3450,
+          "Assignment": "O-H stretch (broad)",
+          "RelativeIntensity": 0.5
+        }
+      ]
+    }
+  ]
+}
